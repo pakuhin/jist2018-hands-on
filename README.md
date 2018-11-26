@@ -256,7 +256,7 @@ LOD4ALL contact page:  http://lod4all.net/contact.html
   <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Wells_Fargo> .
 ```
 
-```
+``` 
 <http://lod4all.net/resource/financial/fdicCert-35112> <http://lod4all.net/ontology/financial/data> <http://lod4all.net/resource/financial/fdicCert-35112/2014-06-30> . 
 <http://lod4all.net/resource/financial/fdicCert-35112> <http://lod4all.net/ontology/financial/data> <http://lod4all.net/resource/financial/fdicCert-35112/2007-12-31> . 
 <http://lod4all.net/resource/financial/fdicCert-35112> <http://lod4all.net/ontology/financial/data> <http://lod4all.net/resource/financial/fdicCert-35112/2006-06-30> . 
